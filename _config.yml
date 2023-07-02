@@ -1,0 +1,8 @@
+remote_theme: minimal-mistakes@master
+plugins:
+- jekyll-remote-theme
+
+title: Ball_Recognizer
+description: An image classification API that classifies 12 different Balls which are used in different games around the world.
+author:
+  name: Md.Gias Kamal
