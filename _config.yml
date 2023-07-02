@@ -1,7 +1,7 @@
-remote_theme: daviddarnes/alembic@master
+remote_theme: minimal-mistakes@master
 plugins:
 - jekyll-remote-theme
-
+git 
 title: Ball_Recognizer
 description: An image classification API that classifies 12 different Balls which are used in different games around the world.
 author:
