@@ -1,4 +1,4 @@
-remote_theme: minimal-mistakes@master
+remote_theme: mistakes/giminimal-mistakes@master
 plugins:
 - jekyll-remote-theme
 
