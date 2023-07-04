@@ -1,4 +1,4 @@
-# Ball_Recognizer
+# Ball Recognizer
 
 An image classification model from data collection , cleaning, model training , deployment and API integration. <br/> 
 The model Can Classify 12 different types of Balls <br/>
