@@ -20,3 +20,9 @@ The types are following: <br/>
 **Data Loader:** used fasai DataBlock API to set up the Data Loader<br/>
 **Data Augmentation:** Fastai provides default data augmentation which operates in GPU. <br/>
 
+# Data Training 
+**Data Trainning:** Fine-tuned a resnet34 model for 2 epochs and got upto ~92% accuracy .<br/>
+# Model Deployment
+I deployed the model to Huggingface spaces Gradio App. The implementation can found in [here](https://huggingface.co/spaces/Prime227/Ball_Category) .<br/>
+
+
