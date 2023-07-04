@@ -22,7 +22,10 @@ The types are following: <br/>
 
 # Data Training 
 **Data Trainning:** Fine-tuned a resnet34 model for 2 epochs and got upto ~92% accuracy .<br/>
+**Data cleaning:** Due to noises from browsed data , i cleaned and updated data using fastai ImageClassifierCleaner. 
 # Model Deployment
 I deployed the model to Huggingface spaces Gradio App. The implementation can found in [here](https://huggingface.co/spaces/Prime227/Ball_Category) .<br/>
+<img src = "Deployment/gradio.jpg", width="600", height="300">
 
-
+# API Integration with Github pages
+The deployed model API is integrated [here](https://gkayan.github.io/Ball_Recognizer/) in Github Pages Website .
